@@ -1,3 +1,6 @@
 [submodule "coronathon-FCT"]
 	path = coronathon-FCT
 	url = https://github.com/alpaylan/coronathon-FCT.git
+[submodule "coronathon"]
+	path = coronathon
+	url = https://github.com/oznakn/coronathon.git
